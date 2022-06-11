@@ -6,15 +6,15 @@ Next, we create a list of tickers and loop through them. We then create a foreca
 
 We plot historical and future data.
 
-![three_stock_plot](/images/three_stock_plot.png)
+![three_stock_plot](images/three_stock_plot.png)
 
 We determine Best Case, Worst Case and Most Likely Case for each symbol. In our example going out 90 days, MSFT has a Best Case of 271.81, a Worst Case of 249.01 and a Most Likely Case of 260.05. GOOG has a Best Case of 1943.35, a Worst Case of 1741.48, and a Most Likely Case of 1843.42. TSLA has a Best Case of 887.23, a Worst Case of 419.52, and a Most Likely Case of 646.46.
 
-![msft_forecast](/Desktop/msft_forecast.png)
+![msft_forecast](images/msft_forecast.png)
 
-![goog_forecast](/Desktop/goog_forecast.png)
+![goog_forecast](images/goog_forecast.png)
 
-![tsla_forecast](/Desktop/tsla_forecast.png)
+![tsla_forecast](images/tsla_forecast.png)
 
 
 
